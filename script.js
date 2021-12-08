@@ -1,6 +1,5 @@
-"use strict"
-const lol = document.querySelector('h1');
-function changecolor()
-{
-    lol.style.color = "green";
-}
+"use strict";
+const circle = document.querySelector('.circle');
+const square = document.querySelector('.square');
+circle.addEventListener("click", function() {(circle.style.backgroundColor = "blue");});
+square.addEventListener("click", function() {(square.style.backgroundColor = "yellow");});
