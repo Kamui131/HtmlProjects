@@ -1,0 +1,32 @@
+.container {
+  width: 600px;
+  height: 600px;
+  display: flex;
+  padding-top: 15px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  
+}
+
+
+.first-container{
+  
+  width: 200px;
+  height: 300px;
+ 
+
+
+  
+    
+
+}
+
+
+.second-container {
+  width: 200px;
+  height: 300px;
+  margin-left: 160px;
+  
+  
+
+}
